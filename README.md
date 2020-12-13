@@ -1,6 +1,7 @@
 # mymarkdown
 
 > A Vue.js project
+> vscodeからgithubにあげた
 
 ## Build Setup
 
